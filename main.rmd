@@ -1,0 +1,52 @@
+---
+title: "Proyecto Modelo Estocastico"
+subtitle: "Universidad Finis Terrae"
+output:
+    pdf_document: default
+    html_document: default
+    word_document: default
+---
+
+\begin{center}
+  \includegraphics[width=6cm]{Imagenes_informe/LOGO-UFT-WEB.png}
+     \vspace{2 cm}
+
+  \normalsize \author{Gianfranco Astorga, David Ñanculeo, Alexa Morales}
+  \vspace{2 cm}
+
+  \normalsize \date{11 de junio del 2024}
+  \vspace{2 cm}
+
+\end{center}
+
+\newpage
+
+# Indice
+
+- [Introducción](#Introducción)
+- [Objetivos](#Objetivos)
+    - [Objetivo General](#Objetivo-General)
+    - [Objetivos Específicos](#Objetivos-Específicos)
+- [Trabajo Previo](#Trabajo-Previo)
+- [Marco Teórico](#Marco-Teórico)
+- [Desarrollo](#Desarrollo)
+- [Conclusiones](#Conclusiones)
+- [Referencias](#Referencias)
+
+\newpage
+
+# 1. Introducción
+
+# 2. Objetivos
+## 2.1 Objetivo General
+## 2.2 Objetivos Específicos
+
+# 3. Trabajo Previo
+
+# 4. Marco Teórico
+
+# 5. Desarrollo
+
+# 6. Conclusiones
+
+# 7. Referencias
