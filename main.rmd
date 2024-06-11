@@ -65,6 +65,33 @@ Evaluar la funcionalidad y eficiencia de un sistema de colas con un único servi
 
 Para comenzar, cargamos los datos y realizamos un análisis exploratorio de los mismos.
 
+```{r}
+
+# Cargamos los datos
+
+datos <- read.csv("registro.csv" , header = TRUE, sep = ";")
+
+# Mostramos los primeros registros
+
+head(datos)
+
+# Mostramos un resumen de los datos
+
+summary(datos)
+
+# Convertimos los datos a formato numérico
+
+datos$tiempo_entre_llegadas <- as.numeric(datos$tiempo_entre_llegadas)
+
+datos$tiempo_de_atencion <- as.numeric(datos$tiempo_de_atencion)
+
+# Graficamos los datos
+
+hist(datos$tiempo_entre_llegadas, main = "Histograma de los tiempos entre llegadas", xlab = "Tiempo entre llegadas", ylab = "Frecuencia", col = "lightblue")
+
+hist(datos$tiempo_de_atencion, main = "Histograma de los tiempos de atención", xlab = "Tiempo de atención", ylab = "Frecuencia", col = "lightblue")
+
+```
 
 # 6. Conclusiones
 
