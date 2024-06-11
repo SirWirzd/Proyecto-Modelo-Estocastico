@@ -37,17 +37,34 @@ output:
 
 # 1. Introducción
 
-
+En este proyecto evaluaremos la funcionalidad de un sistema de colas con un único servidor utilizando datos reales del centro BIP! ubicado en la esquina de Av. Independencia con Av. Dorsal.
+Como consultores, recopilamos 100 registros sobre los tiempos de atención y los tiempos entre llegadas de los clientes.
+Con estos datos, se buscará evaluar el desempeño del sistema de colas y proponer mejoras para optimizar el tiempo de espera de los clientes.
 
 # 2. Objetivos
+
 ## 2.1 Objetivo General
+
+Evaluar la funcionalidad y eficiencia de un sistema de colas con un único servidor utilizando datos reales de un centro BIP!
+
 ## 2.2 Objetivos Específicos
+
+- Aplicar test específicos en busqueda de la distribución de probabilidad de los tiempos entre llegadas y los tiempos de atención.
+
+- Proponer mejoras para optimizar el tiempo de espera de los clientes.
+
+- Realizar un análisis de sensibilidad para evaluar el impacto de las mejoras propuestas.
 
 # 3. Trabajo Previo
 
 # 4. Marco Teórico
 
 # 5. Desarrollo
+
+## 5.1 Análisis de los datos
+
+Para comenzar, cargamos los datos y realizamos un análisis exploratorio de los mismos.
+
 
 # 6. Conclusiones
 
