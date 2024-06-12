@@ -4,6 +4,8 @@
 
 # Gianfranco Astorga Saco
 
+# RUT: 20.245.673-1
+
 # Enunciado:
 
 # En una tienda con un unico servidor se estan tomando los tiempos entre llegada de los clientes.
